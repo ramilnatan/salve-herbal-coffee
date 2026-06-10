@@ -22,6 +22,7 @@ https://salve-herbal-coffee-pfvi.bolt.host
 ## Purpose
 
 To create a modern digital platform that supports product awareness, customer engagement, lead generation, and online business growth.
+Created to support the digital presence and growth of the Salve Herbal Coffee brand, combining wellness-focused product positioning with modern customer engagement and online lead generation strategies.
 
 ## Key Features
 
